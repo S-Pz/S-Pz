@@ -34,13 +34,49 @@ Here are some ideas to get you started:
     align-items: center;">
 
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
+
+<br>
+
+</br> 
+
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<br>
+
+</br> 
 
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
+<br>
+
+</br> 
+
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<br>
+
+</br> 
 
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 </div>                
+
+<details>
+
+## Calculadora JS
+
+<a href= "https://github.com/S-Pz/SA_2">
+
+<br>
+
+</br>
+    <img width="100px" height="100px"  src="./assets/img/Calculadora.png" />
+
+</a>
+
+## Projeto Integrador
+<a>
+
+
+</a>
+</details>

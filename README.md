@@ -69,8 +69,10 @@ Here are some ideas to get you started:
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
-
 </div>
+
+ ![Snake animation](https://github.com/S-Pz/S-Pz/blob/output/github-contribution-grid-snake.svg)
+
 <details>
 
 ## Calculadora JS

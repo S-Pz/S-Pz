@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ---
 
+<img align="right" src="https://tenor.com/bec64.gif" width="40%">
+
 ## 😄 About Me
 <p>
 

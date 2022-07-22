@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 😊 I'm have a lot curiosity about science, and how the computer world is building.
 
 </p>
-<img src="https://media.giphy.com/media/MDs5sQsX9LjscxOl8y/giphy.gif" width="50%">
+<img src="https://media.giphy.com/media/MDs5sQsX9LjscxOl8y/giphy.gif" width="40%">
 <a href="https://github.com/S-Pz">
 <img align="right"  width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=My stats"/></a>
 

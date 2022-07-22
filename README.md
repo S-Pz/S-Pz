@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my space, where I post some code, 
+### Hi there 👋 Welcome to my space, where I post some code. 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=S-Pz.S-Pz)
 
 **Contacts and Social**

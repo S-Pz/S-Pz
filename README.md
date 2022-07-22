@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ---
+<img align="right" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="40%">
 
 ## 😄 About Me
 <p>
@@ -32,9 +33,8 @@ Here are some ideas to get you started:
 🤓 I'm self-taught, so I learn new things like a new language and new programming languages .
 
 😊 I'm have a lot curiosity about science, and how the computer world is building.
-
 </p>
-<img align="right"src="https://media.giphy.com/media/MDs5sQsX9LjscxOl8y/giphy.gif" width="40%">
+
 <a href="https://github.com/S-Pz">
 <img width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=My stats"/></a>
 

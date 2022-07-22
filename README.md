@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="https://tenor.com/bec64.gif" width="40%">
+<img align="right" src="https://tenor.com/view/yoda-coffee-baby-yoda-the-mandalorian-sipping-gif-15740988" width="40%">
 
 ## 😄 About Me
 <p>

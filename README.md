@@ -1,6 +1,10 @@
-### Hi there 👋 Welcome to my space, where I post some code
+### Hi there 👋 Welcome to my space, where I post some code, 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=S-Pz.S-Pz)
 
+**Contacts and Social**
+
+[![Linkedin](https://img.shields.io/badge/SávioFrancisco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saviofrancisco/)
+[![E-mail](https://img.shields.io/badge/SavioFrancisco150@hotmail.com-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 <!--
 **S-Pz/S-Pz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,19 +20,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently student of Computer Sience in UFSJ-Universidade Federal de São João Del Rei
+---
 
-🌱 I’m currently learning some  new programing languages like, C, Phyton, JavaScritp, CSS, HTML, PHP.
+## 😄 About Me
+<p>
 
-<br>
+🙃 My name is **Sávio Francisco** 
 
-<div>
+🔭 I'm currently student of Computer Sience in UFSJ-Universidade Federal de São João Del Rei.
+
+🤓 I'm self-taught, so I learn new things like a new language and new programming languages .
+
+😊 I'm have a lot curiosity about science, and how the computer world is building.
+
+</p>
+
 <a href="https://github.com/S-Pz">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=My stats"/>
+<img align="center" width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=My stats"/></a>
 
-</div>
 <br>
 
+---
 <img align="right" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pz&layout=compact&theme=gruvbox&border_radius=15"/>
 
 ## 🚀 Tecnologies

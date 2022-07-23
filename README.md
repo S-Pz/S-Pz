@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 ## 🚀 Tecnologies
 
-
-
 <div style="display: flex">
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()

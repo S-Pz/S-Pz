@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://github.com/S-Pz">
-<img width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=My stats"/></a>
+<img width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=Mystats"/>
+</a>
 
 <br>
 
@@ -79,13 +80,11 @@ Here are some ideas to get you started:
 ## Calculadora JS
 
 <a href= "https://github.com/S-Pz/SA_2">
-
 <br>
 
-</br>
-    <img width="100px" height="100px"  src="./assets/img/Calculadora.png" />
+<img width="100px" height="100px"  src="./assets/img/Calculadora.png" />
 
-</a>
+</a><br>
 
 ## Projeto Integrador
 <a>

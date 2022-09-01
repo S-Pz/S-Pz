@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 😊 I'm have a lot curiosity about science, and how the computer world is building.
 </p>
 
+
 <a href="https://github.com/S-Pz">
 <img width= "48%" src="https://github-readme-stats.vercel.app/api?username=S-Pz&border_radius=15&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&custom_title=Mystats"/>
 </a>
 
-<br>
 
 ---
 <img align="right" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Pz&layout=compact&theme=gruvbox&border_radius=15"/>

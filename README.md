@@ -4,7 +4,6 @@
 **Contacts and Social**
 
 [![Linkedin](https://img.shields.io/badge/SávioFrancisco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saviofrancisco/)
-[![E-mail](https://img.shields.io/badge/SavioFrancisco150@hotmail.com-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 <!--
 **S-Pz/S-Pz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
